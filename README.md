@@ -1,4 +1,4 @@
-<h1 align="center">Marcos Soares</h1>
+<h1 align="left">Marcos Soares</h1>
 
 <h2>📱 Connect with me</h2>
 
